@@ -13,9 +13,8 @@ A modern dark-themed AI landing page built with HTML & CSS.
 - CSS3
 - Bootstrap
 
-## Preview
-You can see the live demo via GitHub Pages.
+## Live Demo
+[See the live demo here](https://amiralizmnii.github.io/ai-landing-page/)
 
 ## Author
 Amirali
-
